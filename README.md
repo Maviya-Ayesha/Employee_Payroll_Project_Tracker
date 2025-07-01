@@ -11,8 +11,7 @@ Project Structure
 - sample_data.sql – INSERT statements with realistic employee & payroll data
 - queries.sql – SELECTs, JOINs, aggregations, subqueries, filters
 - views_and_functions.sql – Views, functions, and a cursor block
-- screenshots/ – Optional output screenshots (add later)
-
+- 
 Features
 - Tracks project hours, salary logs, and bonus details
 - Links employees to departments & projects
